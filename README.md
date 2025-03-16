@@ -1,20 +1,20 @@
-#SaúdeSenior
+# 💊 SaúdeSenior
 Bem-vindo ao repositório oficial do SaúdeSenior, um aplicativo desenvolvido para auxiliar idosos no gerenciamento de seus medicamentos e consultas médicas, promovendo mais segurança, autonomia e qualidade de vida. Este projeto foi criado com o objetivo de simplificar a rotina de saúde dos usuários, oferecendo funcionalidades intuitivas e acessíveis.
 
-📌 Sobre o Projeto
+# 📌 Sobre o Projeto
 O SaúdeSenior é uma solução tecnológica pensada especialmente para idosos que necessitam de suporte no acompanhamento de seus tratamentos médicos. Além disso, o aplicativo também é uma ferramenta valiosa para familiares e cuidadores, que podem monitorar a rotina de saúde dos idosos de forma remota.
 
 Com uma interface amigável e funcionalidades personalizáveis, o SaúdeSenior visa garantir que os usuários sigam corretamente seus tratamentos, reduzindo riscos e proporcionando mais tranquilidade para todos os envolvidos.
 
-🎯 Objetivo
+# 🎯 Objetivo
 O objetivo principal do SaúdeSenior é facilitar o gerenciamento de medicamentos e consultas médicas para idosos, por meio de lembretes personalizáveis, monitoramento de saúde e comunicação simplificada com familiares e profissionais da saúde. O aplicativo promove mais segurança, autonomia e bem-estar para os usuários.
 
-👥 Público-Alvo
+# 👥 Público-Alvo
 Idosos: Pessoas que precisam de suporte no acompanhamento de tratamentos médicos e medicamentos.
 
 Familiares e Cuidadores: Indivíduos que desejam monitorar a rotina de saúde dos idosos de forma remota.
 
-🛠️ Funcionalidades Principais
+# 🛠️ Funcionalidades Principais
 1. Lembretes de Medicamentos
 Notificações sonoras e visuais para lembrar o usuário de tomar os remédios no horário correto.
 
@@ -44,7 +44,7 @@ Botões grandes e fáceis de usar.
 
 Opção de aumentar o tamanho do texto e ativar leitura em voz alta.
 
-📋 Requisitos
+# 📋 Requisitos
 Requisitos Funcionais
 Contato de Emergência com um Toque: Botão de emergência para ligar para um contato pré-definido (familiares ou médicos) e envio automático de SMS com localização.
 
@@ -58,3 +58,8 @@ Modo Simplificado e Acessível: Interface intuitiva, com botões grandes e opç�
 Fácil Acesso: Aplicativo leve e compatível com a maioria dos celulares.
 
 Compatibilidade: Funciona em sistemas Android e iOS.
+
+# 🌟 Agradecimentos
+Agradecemos a todos os colaboradores, testadores e apoiadores do SaúdeSenior. Juntos, estamos construindo uma solução que faz a diferença na vida de muitas pessoas!
+
+Projeto desenvolvido para a unidade curricular Modelagem de Software
